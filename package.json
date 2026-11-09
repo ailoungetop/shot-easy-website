@@ -20,7 +20,7 @@
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
     "@astrojs/check": "^0.9.10",
-    "@astrojs/node": "^11.1.11",
+    "@astrojs/node": "^9.5.5",
     "@astrojs/react": "^4.4.2",
     "@astrojs/sitemap": "^3.0.3",
     "@astrojs/tailwind": "^5.1.5",
